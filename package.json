@@ -2,7 +2,7 @@
     "name": "Roleplay-Launcher",
     "preductname": "Roleplay Launcher",
     "version": "1.0.0",
-    "description": "Launcher Mincraft RP",
+    "description": "Launcher RP",
     "main": "src/app.js",
     "author": {
         "name": "Nathan Merieux",
